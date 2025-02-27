@@ -39,5 +39,4 @@ To run this project locally, follow these steps:
 3. Enter a **value**
 4. Click **Convert** to get the result instantly ✅
 
-## 🚀 Live Demo:  
-      [https://kanwalrafique-unit-converter-unit-converter-w5iirp.streamlit.app/]
+## 🚀 Live Demo:  https://kanwalrafique-unit-converter-unit-converter-w5iirp.streamlit.app/
